@@ -1,0 +1,130 @@
+﻿{
+  "name": "6",
+  "heights": [
+    {
+      "start": 62.4,
+      "end": 455.4,
+      "height": 76
+    }
+  ],
+  "end": 455.4,
+  "headPlatform": false,
+  "ifopt": "de:11000:900120005:3:53",
+  "length": 457.4,
+  "linkedPlatforms": [
+    "7"
+  ],
+  "operational": {
+    "networkPlatforms": [
+      "206B",
+      "206A"
+    ],
+    "optics": [
+      "BHF   BEF ZN18G206B"
+    ],
+    "orientation": 90,
+    "referencePoints": [
+      {
+        "uuid": "42af0d48-7aa5-4f5c-987e-cacbf2ff661a",
+        "name": "vHaltepunkt 2 (Ende - Nullpunkt) [8-tlg. ODEG RE1]",
+        "referencePointType": "STOP_BOARD",
+        "position": 232,
+        "readableFromOrigin": false,
+        "maxLength": 211
+      },
+      {
+        "uuid": "57f302de-34d8-45d0-81e3-bf54555ad030",
+        "name": "vHaltepunkt 1 (Nullpunkt - Ende) [8-tlg. ODEG RE1]",
+        "referencePointType": "STOP_BOARD",
+        "position": 407,
+        "readableFromOrigin": true,
+        "maxLength": 211
+      },
+      {
+        "uuid": "1f212de1-3d20-411f-8096-cdfdb2a449af",
+        "name": "Haltetafel 4 (Ende-Nullpunkt)",
+        "referencePointType": "STOP_BOARD",
+        "position": 127.9,
+        "readableFromOrigin": false,
+        "maxLength": 310
+      },
+      {
+        "uuid": "b6021c67-ef4f-4ceb-ac94-e74b32ed6d1f",
+        "name": "Haltetafel 3 (Ende-Nullpunkt)",
+        "referencePointType": "STOP_BOARD",
+        "position": 279.2,
+        "readableFromOrigin": false,
+        "maxLength": 140
+      },
+      {
+        "uuid": "fe2b0d80-9ba1-4cd7-85f9-d1ace899680f",
+        "name": "Haltetafel 2 (Ende-Nullpunkt)",
+        "referencePointType": "STOP_BOARD",
+        "position": 233.45,
+        "readableFromOrigin": false,
+        "maxLength": 210
+      },
+      {
+        "uuid": "74dc3376-dfa3-46d1-bf1e-d65020e8d8c9",
+        "name": "Haltetafel 2 (Nullpunkt - Ende)",
+        "referencePointType": "STOP_BOARD",
+        "position": 406.4,
+        "readableFromOrigin": true,
+        "maxLength": 210
+      },
+      {
+        "uuid": "3b0e8666-18fe-44f3-87ee-680da8266410",
+        "name": "Haltetafel 1 (Nullpunkt - Ende)",
+        "referencePointType": "STOP_BOARD",
+        "position": 383.65,
+        "readableFromOrigin": true,
+        "maxLength": 100
+      }
+    ]
+  },
+  "sectors": [
+    {
+      "name": "G",
+      "start": 0,
+      "end": 0,
+      "cubePosition": 439.8
+    },
+    {
+      "name": "E",
+      "start": 0,
+      "end": 0,
+      "cubePosition": 346.7
+    },
+    {
+      "name": "F",
+      "start": 0,
+      "end": 0,
+      "cubePosition": 394.8
+    },
+    {
+      "name": "B",
+      "start": 0,
+      "end": 0,
+      "cubePosition": 194.75
+    },
+    {
+      "name": "A",
+      "start": 0,
+      "end": 0,
+      "cubePosition": 141.1
+    },
+    {
+      "name": "D",
+      "start": 0,
+      "end": 0,
+      "cubePosition": 302.15
+    },
+    {
+      "name": "C",
+      "start": 0,
+      "end": 0,
+      "cubePosition": 235.6
+    }
+  ],
+  "start": 62.4
+}
